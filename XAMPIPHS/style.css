@@ -1,0 +1,90 @@
+.text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    background-image: url(image.png);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    background-position: center;
+    text-align: center;
+}
+
+body{
+    background-color: lightgray;
+    text-align: center;
+    
+}
+
+h1{
+    text-align: center;
+}
+
+.yphresies{
+    height: 70px;
+}
+
+.box1{
+    width: 50%;
+    float: left;
+}
+
+.box2{
+    width: 50%;
+    float: right;
+}
+
+
+.kentro{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: aliceblue;
+
+}
+
+li{
+    color: #333;
+}
+ 
+.epikoinonia{
+    padding: 0% 0% 540px 0%;
+    border-color: #333;
+    background-color: #333;
+    text-align: left;
+    color: antiquewhite;
+    
+
+    
+}
+
+.xarths{
+  float: left;
+  text-align: center;
+  padding: 10px;
+  display: block;
+}
+
+.epidejia{
+    text-align: center;
+    padding: 10px;
+    display: block;
+    width: fit-content; 
+    float: right;
+    padding: 10px 400px;
+}
+
+.xarthsph{
+    display: none;
+}
+
+.epidejiakin{
+    display: none;
+
+}
+
+
+
+
+ 
